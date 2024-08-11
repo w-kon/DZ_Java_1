@@ -2,11 +2,11 @@
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
-        int ticket_price =18940;
-        int one_mile = 20;
-        int bonus_miles;
-        bonus_miles = ticket_price/one_mile;
-        System.out.println(bonus_miles);
+        int ticketPrice = 18940;
+        int oneMile = 20;
+        int bonusMiles;
+        bonusMiles = ticketPrice / oneMile;
+        System.out.println(bonusMiles);
         // Объявляете переменные для входных данных и
         // параметров программы: одну для хранения
         // стоимости билета, другую для хранения количества
